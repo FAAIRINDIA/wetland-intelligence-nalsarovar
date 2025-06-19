@@ -46,8 +46,8 @@ The solution includes the following modules:
 - **Policy & Alerts Engine**: Generates risk reports, conservation suggestions, and alerts  
 
 *A detailed block diagram is available in the `assets/` folder.*
-
 ---
+![block diagram of this project](Gujrat-Wetlands.png)
 
 ## Datasets Collected
 
